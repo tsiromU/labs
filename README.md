@@ -1,4 +1,4 @@
 # labs
 c++/qt/asm programs created in 2023,2024
 
-nothing spetial in here
+nothing special in here
